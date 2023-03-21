@@ -1,5 +1,5 @@
 # HAB-IV-Code
-This is a repository for the fourth iteration of the High Altitude Balloon project(HAB) Major Qualifying Project(MQP) at WPI
+This is a repository for the fourth iteration of the High Altitude Balloon project (HAB) Major Qualifying Project (MQP) at WPI
 
 This repository contains all code and resources used during the HABIV WPI MQP testing. This code is seperated into two main sections the code used on the base station and the code used on the payload.
 
